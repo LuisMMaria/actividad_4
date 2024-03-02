@@ -1,0 +1,16 @@
+{
+  "name": "actividad_4",
+  "version": "1.0.0",
+  "description": "Actividad 4 paso a paso",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luis Maria Sian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "joi": "^17.12.2"
+  }
+}
